@@ -1,0 +1,1 @@
+GitHub Actions uses the installed Gradle command via gradle/actions/setup-gradle. For local builds, install Gradle 8.11+ or generate a wrapper with `gradle wrapper`.
